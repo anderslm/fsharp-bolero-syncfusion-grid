@@ -12,6 +12,8 @@
     <PackageReference Include="Bolero.Build" Version="0.16.27" />
     <PackageReference Include="Bolero.HotReload" Version="0.16.13" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="5.0.0" />
+    <PackageReference Include="Syncfusion.Blazor" Version="18.3.0.53" />
+    <PackageReference Include="TaskBuilder.fs" Version="2.1.0" />
   </ItemGroup>
   <ItemGroup>
     <_ContentIncludedByDefault Remove="wwwroot\css\index.css" />
